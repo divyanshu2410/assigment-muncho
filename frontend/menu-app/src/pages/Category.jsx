@@ -125,7 +125,14 @@ const Category = () => {
         />
       </div>
 
-      <div style={{ display: "grid", gap: "20px", padding: "10px" }}>
+      <div
+        style={{
+          display: "grid",
+          gap: "20px",
+          padding: "10px",
+          paddingBottom: "100px",
+        }}
+      >
         {categoryData.categories.map((category) => (
           <div
             key={category.id}
@@ -167,9 +174,27 @@ const Category = () => {
                     }}
                   />
                   <div>
-                    <div style={{ fontSize: "18px" }}>{item.name}</div>
-                    <div style={{ fontSize: "12px", color: "#aaa" }}>
-                      {item.description}
+                    <div>
+                      <div
+                        style={{
+                          display: "flex",
+                          fontSize: "20px",
+                          fontWeight: "800",
+                        }}
+                      >
+                        {item.name}
+                      </div>
+                      <div
+                        style={{
+                          display: "flex",
+                          fontSize: "14px",
+                          color: "#aaa",
+                          marginTop: "10px",
+                          textAlign: "justify",
+                        }}
+                      >
+                        {item.description}
+                      </div>
                     </div>
                     <div
                       style={{
@@ -178,7 +203,16 @@ const Category = () => {
                         marginTop: "20px",
                       }}
                     >
-                      <div style={{ fontWeight: "bold" }}>${item.price}</div>
+                      <div
+                        style={{
+                          fontWeight: "bold",
+                          display: "flex",
+                          alignItems: "center",
+                          justifyContent: "center",
+                        }}
+                      >
+                        ${item.price}
+                      </div>
                       <div>
                         {cart[item.id] ? (
                           <div
@@ -200,7 +234,7 @@ const Category = () => {
                             >
                               -
                             </button>
-                            <span>{cart[item.id]}</span>
+                            <span>{cart[item.id]}x</span>
                             <button
                               onClick={() => addToCart(item)}
                               style={{

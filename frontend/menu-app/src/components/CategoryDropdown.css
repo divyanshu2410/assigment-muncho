@@ -10,9 +10,9 @@
 }
 
 .dropdown-button {
-  background: black;
-  color: white;
-  font-weight: bold;
+  background: white;
+  color: black;
+  font-weight: 700;
   padding: 10px 15px;
   border-radius: 8px;
   display: flex;
@@ -24,18 +24,18 @@
 }
 
 .dropdown-btn {
-    background: black;
-    color: white;
-    font-weight: bold;
-    padding: 10px 15px;
-    border-radius: 8px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    /* width: 140px; */
-    border: 1px solid gray;
-    cursor: pointer;
-  }
+  background: black;
+  color: white;
+  font-weight: bold;
+  padding: 10px 15px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  /* width: 140px; */
+  border: 1px solid gray;
+  cursor: pointer;
+}
 
 .icon {
   margin-left: 10px;
