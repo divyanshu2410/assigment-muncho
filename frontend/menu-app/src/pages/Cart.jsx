@@ -155,8 +155,8 @@ const Cart = () => {
               <div
                 key={item.id}
                 style={{
-                  width: "160px",
-                  height: "210px",
+                  // width: "160px",
+                  // height: "210px",
                   background: "#222",
                   borderRadius: "10px",
                   padding: "10px",
@@ -175,8 +175,8 @@ const Cart = () => {
                     src={item.image}
                     alt={item.name}
                     style={{
-                      width: "100%",
-                      height: "100px",
+                      // width: "100%",
+                      // height: "100px",
                       objectFit: "cover",
                       borderRadius: "10px",
                     }}
@@ -192,13 +192,13 @@ const Cart = () => {
                 </p>
                 <button
                   style={{
-                    background: "#5a2ec7",
+                    // background: "#5a2ec7",
                     color: "#fff",
                     padding: "8px 12px",
                     borderRadius: "5px",
                     fontSize: "14px",
                     cursor: "pointer",
-                    border: "none",
+                    border: "1px solid white",
                     width: "100%",
                   }}
                   onClick={() => updateQuantity(item.id, 1)}
