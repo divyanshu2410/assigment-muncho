@@ -70,10 +70,10 @@ const Category = () => {
 
   return (
     <motion.div
-      initial={{ opacity: 0, x: 0 }}
+      initial={{ opacity: 0, x: -100 }}
       animate={{ opacity: 1, x: 0 }}
       exit={{ opacity: 0, x: 100 }}
-      transition={{ duration: 0.5 }}
+      transition={{ duration: 0.2 }}
       style={{
         background: "#000",
         minHeight: "100vh",
