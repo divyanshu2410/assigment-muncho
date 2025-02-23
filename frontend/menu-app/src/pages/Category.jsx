@@ -14,7 +14,7 @@ const Category = () => {
   const categoryRefs = useRef({});
 
   useEffect(() => {
-    fetch(`http://localhost:5000/api/food-list`)
+    fetch(`https://assigment-muncho.onrender.com/api/food-list`)
       .then((res) => res.json())
       .then((data) => {
         setCategoryData(data);

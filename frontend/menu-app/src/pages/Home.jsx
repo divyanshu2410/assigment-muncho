@@ -7,7 +7,7 @@ const Home = () => {
   const navigate = useNavigate();
 
   useEffect(() => {
-    fetch("http://localhost:5000/api/theme")
+    fetch("https://assigment-muncho.onrender.com/api/theme")
       .then((res) => res.json())
       .then((data) => {
         // console.log("Data - ", data);
