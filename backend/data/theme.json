@@ -1,0 +1,44 @@
+{
+  "theme": {
+    "primaryColor": "#ffffff",
+    "backgroundColor": "#121212",
+    "textColor": "#ffffff"
+  },
+  "appTitle": "WELCOME TO ATLANTIS",
+  "logo": "https://media-hosting.imagekit.io//b0469c52f836420a/atlantis-logo.svg?Expires=1834852590&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=FVv2mwy8QuIwxA17CXed3wSdXhg3Mkw8UfRRn88I-h55prd~VV3DVBS2vWhtLW604EQ7M~5Y2AvYDXiaHylTY6-hYAFgTdvt6knEC6fXmStpscUwIoOMho4GsIc2DDkWMrp6lkCiDui3y3f-sBiBDvFpHPNJpjXsNlctv9bFhLnXdAHyGeTkQbHb~2oCp37NnNUfFBtpKSK4l9jlFXVJu7MZAWEIKMAsguxuPGjydMnbPW3LC7UqpElV0AwyAfnASRZXxY6S6SYxhGDO0vZZkY7K1Metk75r03UgVpoVA5QsE2PiCY9BhtHs1bmHP9-XVmsRFAW9k8h7UnHQ9A0ZYw__",
+  "table": "TABLE B1",
+  "muncho_logo": "https://media-hosting.imagekit.io//56f5f5c3caee44e8/Screenshot%202025-02-22%20231312.png?Expires=1834854205&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=b5NUObwUDIkEiVjaVfTaMVEfExm~rZ6Gr1hZZAKhcXxP1zxQ4ONCCvvIZBEYGZjaXMF-EIYcwnkJfCNeS80QqTInlrMj3gFJqr~PyfCUqASUH3MCZsGGjTuR4C9HVzUt-RrHnkcRjNKYcAP7hs1d~jJe7b1VFXgtFwc2a41rSgqTpOeqcJRcPITAzJP1uEpOUuBBL47joxojMZ8pSqReBX1R78zFAdwk~mDzRGxk19yZ4DPola5eO0cbtRJsXz4MR7lNt88CkePxFB3pez-fE4cEhLkbJfkA2mWdjCezezzrG5f2MWUQXKRjfppCRkSgvUlwnWbVafa-yzJHuEGg~A__",
+  "searchPlaceholder": "Search...",
+  "categories": [
+    {
+      "id": 1,
+      "name": "Food",
+      "image": "https://media-hosting.imagekit.io//c90ee05ef4374fb3/food.svg?Expires=1834852401&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=pbTLSjy8yOhGgmBXJ8WXla8LieB848y9vU3hLnQ2yZKAio~wUduFKTkGkTPb9M5TQPQRaUyQneabHBn4pf-otB69K4meSDPs4nl596QoElutXusn1C~i-ABbIrZb41dVxo1G0b-0bBr0hJZXNBeHVhQDhV7vt5Di0GSKzIwtZhHCzAN5NmgMBhn~~KihCBVt3ohp8XvgC7lsGeoO4VtPQqNQ3IDJmY0RAp9EXeWV9WpmlPVVtXuaQr2PGJ5GFnKt5xvYiRLAc-d3~gxo6JlLXu4XdYMQJWm~aGT5fsahY5boSD-JXl3Q81RJK5UxCVFH9r6Q1vktM0G9HO0wQUgPtQ__"
+    },
+    {
+      "id": 2,
+      "name": "Liqours",
+      "image": "https://media-hosting.imagekit.io//778cb24721d44444/liquor.svg?Expires=1834852532&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=BTvAdtI2seF9XjKSJuj3k8NKPS6aZ3tALXy4Y4gcpq4AaxkmOjeWfFYwa~VYJ023BwIpUvxXOHFxRocbY89DDZXxGVcy5kb7Xq~gx1oV1-vlmt0xo89tQx4yVT1uGgudxrXovIZjjAl9rFFdFCp-oLI0AYbg~JA6D9yzzOOSJtn3EgT~l3b~5DcHuTewg1PEh5Rf4CWgvdQJLnDkfVqr61wRv~1OOesB5BhdeodbMjt29W4Ui-ms2iSVqEr4XtYmC0jkFRL6o3rzFWDBhPaUxt9Ir5YLCyas9J1XR0QkBUTUoemq7olHwlFy6PJ3-TEgsmO6-OHS42x7Gv0~DVVieQ__"
+    },
+    {
+      "id": 3,
+      "name": "Ice-Cream",
+      "image": "https://media-hosting.imagekit.io//edc0078a2db445ab/Screenshot%202025-02-22%20231017.png?Expires=1834854036&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=eBH9xdphb69g0kh6uPkDWE1HIZGxz1JESjcvIFFByD40JTpPYzNrpFSk7PaadxB3k26WI4aM799oHjOeL--6HFOcakKeFSfsfnCVUNjrfjbqndLdFQJGG~CI2Q51ESp9XRl3ttZ-JZp7pSTYkaThypQHe48xTV~aMAgyHSbm0OxFa-dG-dsSUROJsH5JYR12F-FFB3s6odnR8WcjJZjBGa-51pp~9EuvldyMRGXWhAPk7uyjwrWULzXqnpYXc6JYF6KzWdYRwNDambJeO3xNBN8n3KnFEB~umZ63zn4-M25yClG~cX1Of4zRPqK9a0zTT5AW2H41y5N5VtkDAAMLpA__"
+    },
+    {
+      "id": 4,
+      "name": "Drinks",
+      "image": "https://media-hosting.imagekit.io//02e0ac6a1b894cbc/Screenshot%202025-02-22%20231152.png?Expires=1834854122&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=uGBMYH9eiO-6Qg5r5wscuYuDQfUTbp16llSbetmfwfiulbOyuXbdDfU1nDih84tIgVnckTGLb77rzuLTeg5XYgULDtK51GrYLmTgOYfeLxmK-o36i00hassdv9AOdtOU50xrm3Vxm2h7Ls28IKj8nGxYS9JcIDgJwTNpd2Sh6ZTAo9u34t4TxQE32jEeiJPrE3T68Xx8wKEoC8bWzG~g2XruxgynTnHfk9dHUBJ0jxcHyEb8RW-umgr8lbHIaO77-0vUp75AGiyShGDZgc143kDXu-L5VZ03wzbVwrPGbq3SmkMFi-73tA9veRYyCloybwcc08~Ufv6IB4TR8zR-dA__"
+    },
+    {
+      "id": 5,
+      "name": "REVIEW",
+      "image": "https://media-hosting.imagekit.io//e59946f83c514a40/Screenshot%202025-02-22%20232316.png?Expires=1834854808&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=n714q23AOEORTRIQNDdS4wlLhsaDRnUxPh2DZ~STmbk1QBqdx-2Lt-EnjHzXiTukV~8ogfXxZeK3Yy74A8v~EbU74uZN8ivqw083XHZsQTXVPcSAcpw18TJBTaDKnGNgFIGw1-5krd2Ep68vDuV4LKUWQoweBfVs-mp06G9k8tKRVOjQTWtbUK4O-DKhDMGETcOcb2Dhvy8bTrFlRsK1bvD5lD27sOVsH~xmNY6P02Ep6ZZlaz9LU~mkglIM6XNB4jNv8O5R9u15Hwv3Y3GKVW4rixqyTUS0-BENVC06eXthxQZTwh8wbyMZ-7ib5k3cPMOm6aaOA6a4E6Tu4WaU6g__"
+    },
+    {
+      "id": 6,
+      "name": "FOLLOW",
+      "image": "https://media-hosting.imagekit.io//00c6bc3ab5c142af/Screenshot%202025-02-22%20232450.png?Expires=1834854899&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=x5XWAsRYQr3iXhqGYs1gzzE2tbAMIpwalLrbv72rIPj2oIiT12LoillDFJfs5UyQ4r4vNyKIIpiczqzMqrDdsiuPlM8vJGkDocLhUHTFdGhCeHmorDlOAkdlNZxlSdk9-1TyAtETAeNugORvZGLnoZcBowr7hZOHmuIsJO4WYuk5tsbVPjRg9fV3FCr4I5F88YpZAoBg7r2oeiumviMtbA87QPQzQN7HEfVJ5Mlqmc-BHjDQfJNyam1~8qlX3NjLLoKt11Ld~L5KDEYjCQhUGxQ2JTx54GPfkOE9uwsDh2NwlvQRXbllP8CdsnNJcYQxKLxCqZadHBGn8WHx7u714g__"
+    }
+  ]
+}
