@@ -141,7 +141,9 @@ const Cart = () => {
       </div>
 
       {recommendedItems && recommendedItems.length > 0 && (
-        <div style={{ padding: "15px", marginTop: "40px" }}>
+        <div
+          style={{ padding: "15px", marginTop: "40px", paddingBottom: "100px" }}
+        >
           <h3 style={{ textAlign: "center" }}>Complete Your Meal With</h3>
           <div
             style={{
